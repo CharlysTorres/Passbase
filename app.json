@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "passbase",
+    "slug": "passbase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

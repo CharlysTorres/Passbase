@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360167363055",
+    "project_id": "passbase-key",
+    "storage_bucket": "passbase-key.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360167363055:android:d22af5a537ff3c2377661a",
+        "android_client_info": {
+          "package_name": "com.passbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360167363055-nqjk61t8k8ip9iq3gdumskf01p2vlupt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdCq-eVO4QxJ7ZqniG0eB5lPS6u0CvUAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360167363055-nqjk61t8k8ip9iq3gdumskf01p2vlupt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

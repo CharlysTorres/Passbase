@@ -1,10 +1,39 @@
 {
   "expo": {
-    "name": "passbase",
+    "name": "Passbase",
     "slug": "passbase",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "android": {
+      "package": "com.passbase"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "88c68fc1-6edd-48de-9eae-f657a706a87b"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "ios": {},
+    "updates": {
+      "url": "https://u.expo.dev/88c68fc1-6edd-48de-9eae-f657a706a87b"
+    }
   }
 }
